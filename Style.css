@@ -1,0 +1,30 @@
+/* .div {
+    background-color: rgb(255, 8, 8);
+} */
+#abc{
+    color: black;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+#xyx{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* a:visited{
+    color: green;
+}
+a:link{
+    color: red;
+}
+a:active{
+    background-color: purple;
+} */
